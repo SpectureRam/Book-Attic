@@ -1,0 +1,24 @@
+import React from 'react'
+import './health.css'
+import image1 from "../images/1.png"
+import image2 from "../images/3.webp"
+function War() {
+  return (
+    <>
+
+
+<>
+    <div className='hhicon'><img src={image1} alt='img1'/></div>
+    <br></br><h1 className='hhhead'>UKRAINE'S NUCLEAR PLANT FACE UNCERTAIN FUTURE AFTER RUSSIAN ATTACKS</h1>
+    <div className='hhimage'><img src={image2} alt='img'/></div>
+    <div className='hhsub'><h3>Attacks on Ukraine's power grid took all 15 of the nation's nuclear reactors offline for the first time ever. Russia also retains control of Zaporizhzhia Nuclear Power Plant, the largest nuclear power station in Europe</h3></div>
+    <div className='hhmain'><h2>Ukraine’s nuclear power stations have been caught, both politically and literally, in the crossfire ever since the start of Russia’s invasion. But this week, for the first time in history, all 15 of its nuclear reactors were taken offline by fighting. Zaporizhzhia Nuclear Power Plant (ZNPP), near the Ukrainian city of Enerhodar, is Europe’s largest nuclear power station and has been in Russian hands since in March. The final working reactor at ZNPP was shut down in September as a precautionary measure. Nuclear plants supply power to the grid when operating, but when shut down they actually draw power from it in order to run vital cooling and safety systems, which means disruption to electricity supply is a major concern. On 23 November, shelling of power infrastructure in Ukraine by Russian troops led to blackouts that caused emergency diesel generators to start up at ZNPP, as well as at reactors across Ukraine’s three other nuclear plants that had previously made it through the war with relatively little disruption. In a statement on its website, Ukrainian nuclear operator Energoatom said that for the first time in the 40-year history of the Ukrainian nuclear power industry, all of its nuclear power plants were not producing power, instead relying on diesel back-up generators. Access to the national grid resumed on 25 November. ZNPP’s six nuclear reactors, all fuelled by uranium-235, are a vital piece of infrastructure that Rosatom, Russia’s state nuclear energy company, has clung to since the early days of the invasion. Reports suggest that Rosatom is attempting to force Ukrainian staff at the plant to sign new contracts and join its own staff, which the majority are refusing. International Atomic Energy Agency director general Rafael Mariano Grossi says this is putting “unacceptable pressure” on staff. Read</h2></div>
+    <div className='hhnext'><h2>Jacopo Buongiorno at the Massachusetts Institute of Technology says he is sceptical about the idea that Russia is going to return anything of value to Ukraine, but that if it did there would be long preparations needed before the plant could be restored to working condition. “Restarting the plant would be a lengthy job. Think months, not weeks,” he says. “There are equipment and structures to repair, spare parts to acquire, staff to bring back and new staff to hire and train. A couple of reactors might be in good enough conditions to restart sooner, but for full capacity it’s likely months.” He says that four of ZNPP’s reactors are on “cold shut down” and completely dormant, while two are being retained on “hot shut down”, a kind of standby mode. Returning just those two to working order would take months, even if the war ended tomorrow and Energoatom resumed control. Buongiorno says that the plant is operating on “shoestring” staffing levels, and that vital spare parts won’t have been delivered at the optimum rate. Olena Pareniuk, a scientist working at the Chernobyl site, says the process of restarting a nuclear power plant is long and difficult, but that the energy supply is sorely needed by Ukraine’s citizens, who are experiencing widespread blackouts across the country. “It won’t [come in time to] help us through winter,” she says. Equipment will need to be checked, which is a job that cannot be rushed, she says. “Energoatom says it will be fast, but nuclear-grade ‘fast’.” Bruno Merk at the University of Liverpool in the UK says Russia is “doing currently everything to destroy the Ukrainian energy infrastructure” and that even a retreating Russian occupation could cause problems on their way out, making it unusable without the support of Rosatom and its suppliers. “They could destroy tiny essential components which can only be replaced by the manufacturer, and I can’t see that the manufacturer would be willing to deliver this during war,” he says.</h2></div>
+    </> 
+    
+    
+    </>
+  )
+}
+
+export default War

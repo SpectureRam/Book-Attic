@@ -1,0 +1,64 @@
+.a1icon{
+    margin-top: 10px;
+    height: 430px
+}
+.a1head{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+}
+.a1sub{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-weight: 500;
+}
+
+
+.a1art{
+    text-align: center;
+    font-size: 40px;
+}
+
+.a1art1{
+    margin-top: 8%;
+
+}
+
+.a1art1 img{
+    height: 300px;
+    float: left;
+    margin-left: 7%;
+    margin-top: -4.5%;
+    padding-top: 1%;
+}
+
+.a1art1 img:hover{
+   transform: scale(1.1);
+   transition:ease-in-out 0.2s;
+}
+.a1art1 h4:hover{
+   transform: scale(1.2);
+   transition:ease-in-out 0.2s;
+}
+
+.a1art1 h4{
+    font-size: 40px;
+    margin-left: 40%;
+    margin-right: 9%;
+    margin-top: -2%;
+    margin-bottom: 2%;
+}
+.a1info{
+    margin-left: 42%;
+    margin-right: 20%;
+}
+.a1art1 info h4:hover{
+    transform: scale(1.2);
+    transition:ease-in-out 0.2s ;
+}
+.a1dash{
+    text-align: center;
+}

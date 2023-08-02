@@ -1,0 +1,47 @@
+.gamehead h1{
+    margin-left: 20%;
+    margin-right: 16%;
+    margin-top: 9%;
+    font-size: 50px;
+    font-weight: 700;
+}
+.gamehead h3{
+    margin-right:35%;
+    margin-left: 20%;
+    font-size: 25px;
+    font-weight: 500;
+}
+.gamebody h3{
+    margin-top: 70px;
+    margin-right: 20%;
+    margin-left: 20%;
+    word-spacing: 10px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.gamehead1 h2{
+    margin-top: 8%;
+    margin-left: 40%;
+    margin-right: 20%;
+    font-size: 30px;
+}
+.gamebody1 h3{
+    margin-top: 6%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: 400;
+    font-size: 24px;
+    word-spacing: 7px;
+}
+.hhicon img{
+    margin-left: 5%;
+   height: 170px;
+    width: 180vh;
+}
+.hhimage img{
+    display: flex;
+    margin-left: 23%;
+    height: 500px;
+    width: 50%;
+    
+}

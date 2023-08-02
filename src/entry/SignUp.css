@@ -1,0 +1,17 @@
+body{
+    /* background-image: url("sb.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; */
+}
+.box-container{
+    width: 500px;
+    background: rgb(255, 255, 255) ;
+    box-shadow: 0 5px 15px black;
+    border-radius: 25px;
+    margin-left: 35%;
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 90px;
+}

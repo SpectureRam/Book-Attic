@@ -1,0 +1,52 @@
+.hhhead{
+    text-align: center;
+    font-size: 40px;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 30px;
+
+}
+.hhmain h2{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.hhnext h2{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.hhimage img{
+    display: flex;
+    margin-left: 23%;
+    height: 500px;
+    width: 50%;
+    
+}
+.hhicon img{
+    margin-left: 5%;
+   height: 170px;
+    width: 180vh;
+}
+.hhmain{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 100;
+}
+.hhsub h3{
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.hhnext{
+    text-align: center;
+    margin-left: 7%;
+    margin-right: 5%;
+}
+.wwname h1{
+    margin-top: 40px;
+    font-size: 30px;
+}
